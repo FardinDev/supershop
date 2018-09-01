@@ -1,0 +1,38 @@
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\bin\Debug\try33.exe
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\bin\Debug\try33.pdb
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\obj\x86\Debug\try33.login.resources
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\obj\x86\Debug\try33.Properties.Resources.resources
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\obj\x86\Debug\try33.csproj.GenerateResource.Cache
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\obj\x86\Debug\try33.exe
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\obj\x86\Debug\try33.pdb
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\obj\x86\Debug\try33.Uform.resources
+c:\users\ksk\documents\visual studio 2010\Projects\try33\try33\obj\x86\Debug\try3.userInterface.resources
+C:\Users\ksk\Documents\Visual Studio 2010\Projects\try33\try33\obj\x86\Debug\try33.csprojResolveAssemblyReference.cache
+C:\Users\jaber\Desktop\try33\try33\obj\x86\Debug\try33.exe
+C:\Users\jaber\Desktop\try33\try33\obj\x86\Debug\try33.pdb
+C:\Users\jaber\Desktop\try33\try33\bin\Debug\try33.exe
+C:\Users\jaber\Desktop\try33\try33\bin\Debug\try33.pdb
+C:\Users\jaber\Desktop\try33\try33\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\jaber\Desktop\try33\try33\obj\x86\Debug\try33.csprojResolveAssemblyReference.cache
+C:\Users\jaber\Desktop\try33\try33\obj\x86\Debug\try33.login.resources
+C:\Users\jaber\Desktop\try33\try33\obj\x86\Debug\try33.Properties.Resources.resources
+C:\Users\jaber\Desktop\try33\try33\obj\x86\Debug\try33.Uform.resources
+C:\Users\jaber\Desktop\try33\try33\obj\x86\Debug\try33.csproj.GenerateResource.Cache
+C:\Users\jaber\Desktop\try33\try33\obj\x86\Debug\try33.Aform.resources
+C:\Users\jaber\Desktop\try33\try33\bin\Debug\supershop.sdf
+C:\Users\jaber\Desktop\try33\try33\bin\Debug\try33.exe.config
+C:\Users\jaber\Desktop\try33\try33\obj\x86\Debug\try33.Form1.resources
+C:\Users\ksk\Desktop\try33\try33\bin\Debug\try33.exe.config
+C:\Users\ksk\Desktop\try33\try33\obj\x86\Debug\try33.exe
+C:\Users\ksk\Desktop\try33\try33\obj\x86\Debug\try33.pdb
+C:\Users\ksk\Desktop\try33\try33\bin\Debug\supershop.sdf
+C:\Users\ksk\Desktop\try33\try33\bin\Debug\try33.exe
+C:\Users\ksk\Desktop\try33\try33\bin\Debug\try33.pdb
+C:\Users\ksk\Desktop\try33\try33\obj\x86\Debug\try33.csprojResolveAssemblyReference.cache
+C:\Users\ksk\Desktop\try33\try33\obj\x86\Debug\try33.Aform.resources
+C:\Users\ksk\Desktop\try33\try33\obj\x86\Debug\try33.Form1.resources
+C:\Users\ksk\Desktop\try33\try33\obj\x86\Debug\try33.login.resources
+C:\Users\ksk\Desktop\try33\try33\obj\x86\Debug\try33.Properties.Resources.resources
+C:\Users\ksk\Desktop\try33\try33\obj\x86\Debug\try33.Uform.resources
+C:\Users\ksk\Desktop\try33\try33\obj\x86\Debug\try33.csproj.GenerateResource.Cache

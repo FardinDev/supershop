@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try33", "try33\try33.csproj", "{06B0DD88-B85B-4243-BAC5-C4D4D42A4106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try3", "..\try3\try3\try3.csproj", "{F5747D06-14C2-4C24-9513-1767D03BBCC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B0DD88-B85B-4243-BAC5-C4D4D42A4106}.Debug|x86.ActiveCfg = Debug|x86
+		{06B0DD88-B85B-4243-BAC5-C4D4D42A4106}.Debug|x86.Build.0 = Debug|x86
+		{06B0DD88-B85B-4243-BAC5-C4D4D42A4106}.Release|x86.ActiveCfg = Release|x86
+		{06B0DD88-B85B-4243-BAC5-C4D4D42A4106}.Release|x86.Build.0 = Release|x86
+		{F5747D06-14C2-4C24-9513-1767D03BBCC5}.Debug|x86.ActiveCfg = Debug|x86
+		{F5747D06-14C2-4C24-9513-1767D03BBCC5}.Debug|x86.Build.0 = Debug|x86
+		{F5747D06-14C2-4C24-9513-1767D03BBCC5}.Release|x86.ActiveCfg = Release|x86
+		{F5747D06-14C2-4C24-9513-1767D03BBCC5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
